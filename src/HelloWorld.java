@@ -5,6 +5,4 @@ public class HelloWorld {
 
 
     // I`m assuming that it is
-
-
 }
